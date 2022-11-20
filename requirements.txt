@@ -5,6 +5,7 @@ xarray
 numpy
 leafmap
 matplotlib
+ipympl
 geopandas
 shapely
 scikit-image
