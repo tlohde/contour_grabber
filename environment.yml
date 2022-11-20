@@ -1,0 +1,17 @@
+name: enviro
+channels:
+  - conda-forge
+dependencies:
+  - folium
+  - geopandas
+  - ipympl
+  - leafmap
+  - matplotlib
+  - numpy
+  - planetary_computer
+  - pystac_client
+  - shapely
+  - scikit-image
+  - shapely
+  - scikit-image
+  - xarray
