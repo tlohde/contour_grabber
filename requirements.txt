@@ -1,0 +1,10 @@
+planetary_computer
+pystac_client
+rioxarray
+xarray
+numpy
+leafmap
+matplotlib
+geopandas
+shapely
+skimage
