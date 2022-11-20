@@ -8,10 +8,9 @@ dependencies:
   - leafmap
   - matplotlib
   - numpy
-  - planetary_computer
-  - pystac_client
-  - shapely
-  - scikit-image
+  - planetary-computer
+  - pystac-client
+  - rioxarray
   - shapely
   - scikit-image
   - xarray
