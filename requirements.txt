@@ -1,3 +1,5 @@
+folium
+mapclassify
 planetary_computer
 pystac_client
 rioxarray
